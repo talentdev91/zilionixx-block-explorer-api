@@ -1,0 +1,6 @@
+{
+  "block": "block",
+  "token": "token",
+  "transaction": "tx",
+  "address": "address"
+}
